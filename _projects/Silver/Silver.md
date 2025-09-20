@@ -14,5 +14,5 @@ Start date: {{ page.start_date }}
 
 The Silver project aims to reinvent email and digital communication that is suitable for government scale deployment. We are looking to make it in two stages: 1.0 to just provide "regular" email and 2.0 to reinvent communication and collaboration.
 
-Read more about the Silver project on our github:
-[README.md](https://github.com/LSFLK/silver)
+Find more information about Silver here:
+[Github Project](https://github.com/LSFLK/silver)
