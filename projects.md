@@ -15,7 +15,7 @@ permalink: /projects/
                     Name: <b>{{ project.title }}</b><br>
                     Start Date: <b>{{project.start_date | date_to_string: "ordinal", "US" }}</b><br>
                     {{ project.summary | markdownify }}<br>
-                    <a href="{{ project.title }}">Learn more</a>
+                    <a href="{{ site.baseurl }}/projects/{{ project.path | split: "/" | last | replace: ".md", "" }}">Learn more</a>
                 </p>            
             </td>
         </tr>
@@ -36,7 +36,7 @@ permalink: /projects/
                     Start Date: <b>{{project.start_date | date_to_string: "ordinal", "US" }}</b><br>
                     End Date: <b>{{project.end_date | date_to_string: "ordinal", "US" }}</b><br>
                     {{ project.summary | markdownify }}<br>
-                    <a href="{{ project.title }}">Learn more</a>
+                    <a href="{{ site.baseurl }}/projects/{{ project.path | split: "/" | last | replace: ".md", "" }}">Learn more</a>
                 </p>            
             </td>
         </tr>

@@ -7,8 +7,7 @@ status: PAST
 summary: The Ninithi is a free and opensource software developed to visualize and analyze the carbon allotropes used in nanotechnology.
 image: assets/images/projects/Ninithi.png
 ---
-Start date: {{ page.start_date }}
-End date: {{ page.end_date }}
+<b>NOTE: This is a part project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}. Feel free to contact us if you want more information.</b>
 
 Ninithi is a free and opensource software developed to visualize and analyze the carbon allotropes used in nanotechnology. Ninithi can be used to visualize Carbon nanotubes, Graphene/ nanoribbons and Fullerene and to plot the band structures of Graphene and Carbon nanotubes. The software is licensed under the GNU Public Licence version 3.
 
