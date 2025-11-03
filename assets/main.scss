@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+/* Fix for over-scrolling and black bar at top */
+html {
+  overflow-x: hidden;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  -webkit-overflow-scrolling: touch;
+  background-color: #fdfdfd;
+  min-height: 100%;
+}
