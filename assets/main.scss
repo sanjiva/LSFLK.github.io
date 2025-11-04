@@ -19,3 +19,23 @@ body {
   background-color: #fdfdfd;
   min-height: 100%;
 }
+
+/* Full-width layout - remove max-width constraint */
+.wrapper {
+  max-width: 80% !important;
+  width: 80%;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+/* Justify text in page content */
+.page-content p {
+  text-align: justify;
+}
