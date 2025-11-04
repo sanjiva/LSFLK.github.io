@@ -39,3 +39,26 @@ body {
 .page-content p {
   text-align: justify;
 }
+
+/* Emphasize site title and navigation */
+.site-title {
+  font-size: 32px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.5px;
+}
+
+.site-nav .page-link {
+  font-size: 20px !important;
+  font-weight: 400 !important;
+  margin-left: 25px;
+}
+
+@media screen and (max-width: 800px) {
+  .site-title {
+    font-size: 24px !important;
+  }
+
+  .site-nav .page-link {
+    font-size: 18px !important;
+  }
+}
