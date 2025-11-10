@@ -1,0 +1,64 @@
+---
+---
+
+@import "minima";
+
+/* Fix for over-scrolling and black bar at top */
+html {
+  overflow-x: hidden;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  overscroll-behavior: none;
+  overscroll-behavior-y: none;
+  -webkit-overflow-scrolling: touch;
+  background-color: #fdfdfd;
+  min-height: 100%;
+}
+
+/* Full-width layout - remove max-width constraint */
+.wrapper {
+  max-width: 80% !important;
+  width: 80%;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+/* Justify text in page content */
+.page-content p {
+  text-align: justify;
+}
+
+/* Emphasize site title and navigation */
+.site-title {
+  font-size: 32px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.5px;
+}
+
+.site-nav .page-link {
+  font-size: 20px !important;
+  font-weight: 400 !important;
+  margin-left: 25px;
+}
+
+@media screen and (max-width: 800px) {
+  .site-title {
+    font-size: 24px !important;
+  }
+
+  .site-nav .page-link {
+    font-size: 18px !important;
+  }
+}
