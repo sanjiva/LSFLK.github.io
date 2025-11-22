@@ -89,8 +89,8 @@ body {
 @media screen and (max-width: 768px) {
   table {
     display: block;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    overflow-x: hidden;
   }
 
   table tr {
@@ -100,6 +100,7 @@ body {
     border-radius: 5px;
     padding: 20px;
     background-color: #fff;
+    box-sizing: border-box;
   }
 
   table td {
@@ -107,7 +108,8 @@ body {
     width: 100% !important;
     text-align: left !important;
     border: none !important;
-    padding: 10px 15px !important;
+    padding: 10px 0 !important;
+    box-sizing: border-box;
   }
 
   table td:first-child {
@@ -124,7 +126,8 @@ body {
 
   table td p {
     margin-bottom: 10px;
-    padding-right: 5px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -153,29 +156,24 @@ body {
   /* Disable text justification on mobile for better readability */
   .page-content p {
     text-align: left !important;
-    padding-right: 10px;
   }
 
   .home p {
     text-align: left !important;
-    padding-right: 10px;
   }
 }
 
 @media screen and (max-width: 480px) {
   h1 {
     font-size: 24px !important;
-    padding-right: 10px;
   }
 
   h2 {
     font-size: 20px !important;
-    padding-right: 10px;
   }
 
   h3 {
     font-size: 18px !important;
-    padding-right: 10px;
   }
 
   .site-title {
@@ -184,17 +182,10 @@ body {
 
   .post-title {
     font-size: 24px !important;
-    padding-right: 10px;
   }
 
   body {
     font-size: 15px !important;
-  }
-
-  /* Extra padding for all text content */
-  .page-content p,
-  .home p {
-    padding-right: 15px !important;
   }
 }
 
@@ -208,15 +199,16 @@ img {
 /* Additional table padding for small mobile devices */
 @media screen and (max-width: 480px) {
   table tr {
-    padding: 18px 15px;
+    padding: 15px;
   }
 
   table td {
-    padding: 8px 12px !important;
+    padding: 8px 0 !important;
   }
 
   table td p {
-    padding-right: 8px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
