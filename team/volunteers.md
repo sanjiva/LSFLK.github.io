@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /team/fellows/
+permalink: /team/volinteers/
 ---
 
-# Our fellows
+# Our volunteers
 
-Code makes the world go around and our engineers are the ones who do the magic. Note that LSF offers short term fellowships for engineers and as such everyone has the same job title of Software Engineering Fellow.
+Volunteers are key to making it possible for us to build large scale software with small teams. Thank you to those who make it possible to do this!
 
 <table>
-    {% for engineer in site.data.fellows %}
-        {% assign person = engineer[1] %}
+    {% for volunteer in site.data.volunteers %}
+        {% assign person = volunteer[1] %}
         <tr>
             <td width="20%" style="vertical-align: top;">
                 <img src="{{ site.baseurl }}/{{ person.image }} " width="100%">
@@ -17,7 +17,6 @@ Code makes the world go around and our engineers are the ones who do the magic. 
             <td>
                 <p>
                     Name: <b>{{ person.name }}</b><br>
-                    Role: <b>{{ person.position }}</b><br>
                     Start Date: <b>{{ person.start_date }}</b><br>
                     Projects:
                         <b>{% for p in person.projects %}
