@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## The founding
+Jump to: <a href="#founding">The founding<a>, <a href="#phase1">Phase 1 (2003-13)</a>, <a href="#phase2">Phase 2 (2013-18)</a>, <a href="#phase3">Phase 3 (2019-24)</a>, <a href="#phase4">Modern era (2025-)</a>.
+
+## The founding {#founding}
 
 The Lanka Software Foundation was conceived by <a href="{{ site.baseurl }}/about#sanjiva">Sanjiva</a> and <a href="{{ site.baseurl }}/about#jivaka">Jivaka</a> in 2001/2. After 16 years in the US, Sanjiva returned to Sri Lanka in 2001. As a long time open source contributor, Sanjiva understood that open source distribution of software was a powerful way to reach the global market. At that time, while everyone was talking about using free and open source software in Sri Lanka, no one was promoting, guiding and supporting the creation of open source software from our side of the world. 
 
@@ -43,7 +45,7 @@ The members are / were:
 
 The Articles of Association of LSF are <a href="{{ site.baseurl }}/assets/docs/2003-Articles-Of-Association.pdf">here</a>.
 
-## Phase 1 (2003 to 2013): Building open source technology around web services & Sahana
+## Phase 1 (2003 to 2013): Building open source technology around web services & Sahana {#phase1}
 This phase is what led to the creation of WSO2 on top of the Apache Axis2 project which LSF developed with a $100K grant from the Swedish International Development Agency (from 2004 to 2005). After WSO2 launched in 2005, LSF continued to do various projects in web services but work in that area slowed down a lot as Sahana took primary focus.
 
 
@@ -51,7 +53,7 @@ In 2004, after the tsunami we also started the Sahana disaster management platfo
 
 Projects done in this phase include Apache Axis C++, Apache Axis2, Sahana and Dalesa.
 
-## Phase 2 (2013 to 2018): Open source incubator - building open source businesses
+## Phase 2 (2013 to 2018): Open source incubator - building open source businesses {#phase2}
 
 In this phase we attempted to support open source projects in Sri Lanka to become successful global businesses. While we had some successful projects in this phase, none of them graduated to become succesful businesses.
 
@@ -59,7 +61,7 @@ Projects done in this phase include Ninithi.
 
 A <a href="https://drive.google.com/file/d/1N-sbHZlvvau1cYbdr4bZzKhxOWslgL8i/view?usp=sharing">mini-book was published</a> to celebrate our 15th anniversary in 2018.
 
-## Phase 3 (2019-2024): Code for Sri Lanka - building government solutions
+## Phase 3 (2019-2024): Code for Sri Lanka - building government solutions  {#phase3}
 
 In this phase we focused on helping the government of Sri Lanka with various software solutions. While we had some good success, the efforts have not resulted in any permanent impact on Sri Lanka’s digital government platform or architecture.
 
@@ -68,7 +70,7 @@ During this phase, we also collaborated with <a href="https://www.rhsmith.umd.ed
 
 Projects done in this phase include elections, education, transport and Karsha.
 
-## Phase 4 (2025 onwards): Building digital public infrastructure for Sri Lanka and the world
+## Phase 4 (2025 onwards): Building digital public infrastructure for Sri Lanka and the world  {#phase4}
 
 The term “Digital Public Infrastructure” (DPI) has been established primarily with India’s use of that term and their dramatic success is building their digital public infrastructure in a way that is very different from that of the US and China. From <em><a href="https://nbr.org/publication/the-indian-model-for-digitalization-a-blueprint-for-the-global-south/">The Indian Model for Digitalization</a></em>:
 
