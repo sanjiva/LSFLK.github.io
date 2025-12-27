@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team/volinteers/
+permalink: /team/volunteers/
 ---
 
 # Our volunteers
