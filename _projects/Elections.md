@@ -5,7 +5,7 @@ start_date: 2018-11-01
 end_date: 2022-05-01
 status: PAST
 summary: Helping the Election Commission to build an integrated election management system to run Sri Lanka’s elections
-image: assets/images/projects/sahana.png
+image: assets/images/projects/elections.png
 ---
 <b>NOTE: This is a past project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}.</b>
 
@@ -17,5 +17,3 @@ The system was used to run the 2019 Presidential Election and the 2020 Parliamen
 For more information about the first deployment, read Sanjiva's blog: <a href="https://medium.com/@sanjiva.weerawarana/building-software-to-run-elections-in-sri-lanka-and-beyond-188237a962bc">Building software to run elections in Sri Lanka (and beyond)</a>.
 
 The source code can be found here: <a href="https://github.com/ECLK/">https://github.com/ECLK/</a>.
-
-<img src="{{ site.baseurl }}/{{page.image}}" alt="Sahana" width="300"/>
