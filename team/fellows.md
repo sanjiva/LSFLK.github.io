@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team/engineers/
+permalink: /team/fellows/
 ---
 
 # Our engineers
@@ -8,7 +8,7 @@ permalink: /team/engineers/
 Code makes the world go around and our engineers are the ones who do the magic. Note that LSF offers short term fellowships for engineers and as such everyone has the same job title of Software Engineering Fellow.
 
 <table>
-    {% for engineer in site.data.engineers %}
+    {% for engineer in site.data.fellows %}
         {% assign person = engineer[1] %}
         <tr>
             <td width="20%" style="vertical-align: top;">
