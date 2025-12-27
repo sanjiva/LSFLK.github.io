@@ -14,3 +14,5 @@ Ninithi is a free and opensource software developed to visualize and analyze the
 The objective is to develop an open source modelling and simulation software that helps nano scientists, students and lecturers with their research.
 
 <img src="{{ site.baseurl }}/{{page.image}}" alt="Ninithi" width="300"/>
+
+<em>NOTE: Dates are approximate; if someone remembers the correct dates please send a PR!</em>

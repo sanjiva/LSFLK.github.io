@@ -14,3 +14,5 @@ The goal of this project was to build a Student Information System (SIS) with da
 The SIS platform was built using UNICEF's <a href="https://www.openemis.org/">OpenEMIS</a> solution. While the initial deployment was somewhat successful and gathered data from close to three million students, with change of leadership and changing priorities of the Ministry of Education, this effort was halted.
 
 The source code can be found here: <a href="https://github.com/MOE-LK/">https://github.com/MOE-LK/</a>.
+
+<em>NOTE: Dates are approximate; if someone remembers the correct dates please send a PR!</em>
