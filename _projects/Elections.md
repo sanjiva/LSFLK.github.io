@@ -15,4 +15,6 @@ The system was used to run the 2019 Presidential Election and the 2020 Parliamen
 
 For more information about the first deployment, read Sanjiva's blog: <a href="https://medium.com/@sanjiva.weerawarana/building-software-to-run-elections-in-sri-lanka-and-beyond-188237a962bc">Building software to run elections in Sri Lanka (and beyond)</a>.
 
+The source code can be found here: <a href="https://github.com/ECLK/">https://github.com/ECLK/</a>.
+
 <img src="{{ site.baseurl }}/{{page.image}}" alt="Sahana" width="300"/>
