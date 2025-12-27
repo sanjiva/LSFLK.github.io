@@ -57,6 +57,8 @@ In this phase we attempted to support open source projects in Sri Lanka to becom
 
 Projects done in this phase include Ninithi.
 
+A <a href="https://drive.google.com/file/d/1N-sbHZlvvau1cYbdr4bZzKhxOWslgL8i/view?usp=sharing">mini-book was published</a> to celebrate our 15th anniversary in 2018.
+
 ## Phase 3 (2019-2024): Code for Sri Lanka - building government solutions
 
 In this phase we focused on helping the government of Sri Lanka with various software solutions. While we had some good success, the efforts have not resulted in any permanent impact on Sri Lanka’s digital government platform or architecture.
