@@ -4,12 +4,13 @@ title: Elections
 start_date: 2018-11-01
 end_date: 2022-05-01
 status: PAST
-summary: Elections 
+summary: Helping the Election Commission to build an integrated election management system to run Sri Lanka’s elections
 image: assets/images/projects/sahana.png
 ---
 <b>NOTE: This is a past project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}.</b>
 
-Helping the Election Commission to build an integrated election management system to run Sri Lanka’s elections. The end goal was to enable the Election Commission of Sri Lanka (and beyond) to offer elections-as-a-service to any organization. The original Memorandum of Understanding signed between the Elections Commission and LSF can be viewed <a href="https://drive.google.com/file/d/0B8BWFJ5bKEghbU9kWmJnUmpDT3ktUHZ2YTJ3Nnk1c3JhQy1z/view?resourcekey=0-L6fm7M2Af9Ccdv6XTLib1w">here</a>.
+This project with LSF helping the Election Commission to build an integrated election management system to run Sri Lanka’s elections.
+The end goal was to enable the Election Commission of Sri Lanka (and beyond) to offer elections-as-a-service to any organization. The original Memorandum of Understanding signed between the Elections Commission and LSF can be viewed <a href="https://drive.google.com/file/d/0B8BWFJ5bKEghbU9kWmJnUmpDT3ktUHZ2YTJ3Nnk1c3JhQy1z/view?resourcekey=0-L6fm7M2Af9Ccdv6XTLib1w">here</a>.
 
 The system was used to run the 2019 Presidential Election and the 2020 Parliamentary Election in Sri Lanka. Later the Elections Commission decided to build their own platform and moved on from this software. Efforts to get funding to continue this project to be a platform for elections worldwide were also not successful and the project was shut down.
 
