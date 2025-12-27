@@ -7,7 +7,7 @@ status: PAST
 summary: Apache Axis2 is a core engine for Web services that supports SOAP 1.1, SOAP 1.2, REST, and other communication protocols.
 image: assets/images/projects/axis2.png
 ---
-<b>NOTE: This is a part project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}. Feel free to contact us if you want more information.</b>
+<b>NOTE: This is a past project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}.</b>
 
 SOAP is an industry-standard XML-based communication Protocol for communicating between applications. The Apache Axis Java project developed the most widely recognized and used, open source Java SOAP implementation. A new architecture for Axis2 was introduced during the August 2004 Summit in Colombo, Sri Lanka. The new architecture on which Axis2 is based on, is more flexible, efficient and configurable in comparison to Axis1.x architecture.
 
