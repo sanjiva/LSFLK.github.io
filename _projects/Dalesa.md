@@ -7,7 +7,7 @@ status: PAST
 summary: Dalesa is a Free and Open Source Peer-to-Peer web caching software that improves web performance in local area networks.
 image: assets/images/projects/dalesa.png
 ---
-<b>NOTE: This is a part project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}. Feel free to contact us if you want more information.</b>
+<b>NOTE: This is a past project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}.</b>
 
 Dalesa is a Free and Open Source Peer-to-Peer web caching software licensed under GPL-2 that will improve web performance in your local area network. Dalesa brings cooperative web caching based on peer-to-peer computing to your desktop. Nodes participating in the network will expose their web caches to the entire system through peer-to-peer web object (document) lookup algorithms.
 

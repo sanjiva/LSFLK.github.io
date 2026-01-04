@@ -7,11 +7,7 @@ status: PAST
 summary: Apache Axis C++ is a SOAP engine implementation in C++ that provides both client and server support.
 image: assets/images/projects/axisc.jpeg
 ---
-<b>NOTE: This is a part project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}. Feel free to contact us if you want more information.</b>
-
-SOAP
-Start date: {{ page.start_date }}
-End date: {{ page.end_date }}
+<b>NOTE: This is a past project of LSF that was active from {{ page.start_date }} to {{ page.end_date }}.</b>
 
 SOAP is an industry-standard XML-based communication Protocol for communicating between applications. LSF in its pioneering project, initiated an effort to develop a C++ SOAP implementation for Apache. Axis C/C++ (Axis CPP) is a non-Java implementation of Axis. At its core Axis CPP has a C++ runtime engine.
 

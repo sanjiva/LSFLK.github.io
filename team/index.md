@@ -9,6 +9,6 @@ Here's our team:
 
 <a href="{{ site.baseurl }}/team/leadership">Leadership Team</a><br>
 
-<a href="{{ site.baseurl }}/team/engineers">Engineers</a><br>
+<a href="{{ site.baseurl }}/team/fellows">Fellows</a><br>
 
-<a href="{{ site.baseurl }}/team/interns">Interns</a><br>
+<a href="{{ site.baseurl }}/team/volunteers">Volunteers</a><br>
