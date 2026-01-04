@@ -28,6 +28,7 @@ body {
   padding-left: 30px;
   margin-right: auto;
   margin-left: auto;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
@@ -41,25 +42,28 @@ body {
 
 @media screen and (max-width: 768px) {
   .wrapper {
-    max-width: 90% !important;
-    width: 90%;
-    padding-right: 20px;
-    padding-left: 20px;
+    max-width: 95% !important;
+    width: 95%;
+    padding-right: 15px;
+    padding-left: 15px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .wrapper {
-    max-width: 92% !important;
-    width: 92%;
-    padding-right: 25px;
-    padding-left: 25px;
+    max-width: 100% !important;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
   }
 }
 
 /* Justify text in page content */
-.page-content p {
+.page-content p,
+.home p,
+.post-content p {
   text-align: justify;
+  text-justify: inter-word;
 }
 
 /* Emphasize site title and navigation */
@@ -152,15 +156,6 @@ body {
   .page-content {
     padding: 20px 0;
   }
-
-  /* Disable text justification on mobile for better readability */
-  .page-content p {
-    text-align: left !important;
-  }
-
-  .home p {
-    text-align: left !important;
-  }
 }
 
 @media screen and (max-width: 480px) {
@@ -186,6 +181,13 @@ body {
 
   body {
     font-size: 15px !important;
+  }
+
+  /* Disable text justification on very small mobile screens for better readability */
+  .page-content p,
+  .home p,
+  .post-content p {
+    text-align: left !important;
   }
 }
 
